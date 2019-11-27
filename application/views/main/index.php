@@ -7,7 +7,7 @@
 			                            <div class="col-md-6 col-md-offset-6">
 			                                <div class="section-title mb-38 mt-31">
 			                                    
-			                                    <h2 class="uppercase">ПОПРОБУЙТЕ ИГРУ: <span class="text-color">ДОСТАВЩИК</span></h2>
+			                                    <h2 class="uppercase">ПОПРОБУЙТЕ ЭТУ ИГРУ: <span class="text-color">ДОСТАВЩИК</span></h2>
 			                                </div>
 			                            	<p class="23"><span class="text-dark text-uppercase">ДОСТАВЩИК</span> Это новая, революционная игра. настолько что я ее еще не написал а все данные по делу засекречены</p>
 			                            	
